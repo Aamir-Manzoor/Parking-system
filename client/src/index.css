@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-no-hover {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+    color: #fff !important;
+  }
+  
+  /* Remove the hover effect */
+  .btn-no-hover:hover {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+    color: #fff !important;
+  }
+
+  .btn-no-hover2 {
+    background-color: #2f5df2 !important;
+    border-color: #2f5df2 !important;
+    color: #fff !important;
+  }
+  
+  /* Remove the hover effect */
+  .btn-no-hover2:hover {
+    background-color: #2f5df2 !important;
+    border-color: #2f5df2 !important;
+    color: #fff !important;
+  }
