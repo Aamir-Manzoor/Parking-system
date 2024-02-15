@@ -15,7 +15,7 @@ This repository contains the source code and files for the Parking System App, d
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/parking-system.git
+    git clone https://github.com/Aamir-Manzoor/parking-system.git
     ```
 
 2. Install dependencies for the frontend:
@@ -67,8 +67,7 @@ The Parking System App currently provides the following functionalities:
 
 For any inquiries or feedback, please contact:
 
-[Your Full Name]
-[Your Email Address]
-[Your Phone Number]
+Amir Manzoor
+aamirmanzoor372@gmail.com
 
 Thank you for your time and consideration!
